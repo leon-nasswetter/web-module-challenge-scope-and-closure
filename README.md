@@ -1,4 +1,4 @@
-Task 2b questions
+Task 2b questions up here for easier visibility
 
 1. In your own words, define closure (1-2 sentences).
 
@@ -67,6 +67,7 @@ Edit the `ReadMe` file with your answers.
 
 1. In your own words, define closure (1-2 sentences).
 2. Study the following code, then answer the questions below.
+
 
 ```js
 function personalDice(name){

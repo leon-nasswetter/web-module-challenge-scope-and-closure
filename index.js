@@ -158,7 +158,11 @@ function scoreboard(getInningScore, inning, inningsPlayed) {
     scoreArr.push(`Inning ${i}: Away ${getInningScore()["Away"]} - Home ${getInningScore()["Home"]}`);
   }
   scoreArr.push(`Final Score: Away ${finalScore(inning, inningsPlayed)["Away"]} - Home ${finalScore(inning, inningsPlayed)}`);
+  return scoreArr;
 }
+
+
+
 
 
 
