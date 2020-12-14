@@ -1,3 +1,26 @@
+Task 2b questions
+
+1. In your own words, define closure (1-2 sentences).
+
+    Nested functions have access to outside functions. Functions can not access information inwards.
+
+2. Study the following code, then answer the questions below.
+  a. Where is closure used in this code? How can you tell?
+
+    It is used by the anonymous function when calling for the name parameter.
+
+  b. Compare and contrast calling dansRoll the first and second time. What is always the same? What could change?
+
+    The name will always be Dan and the newRoll will always be a random whole number between 0 and 5.
+  
+  c. What is the lexical scope of newRoll?
+
+    newRoll scope is only within the anonymous function.
+
+
+
+
+
 # Scope and Closure Challenge
 
 The module challenge is the afternoon project or assignment that students work through independently. This expands on the guided project completed earlier with the instructor.
